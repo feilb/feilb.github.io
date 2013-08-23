@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Another Day
-date: {}
+date: 2013-08-23
 author: brandon
 published: true
 ---
