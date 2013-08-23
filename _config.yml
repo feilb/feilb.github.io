@@ -30,8 +30,9 @@ prose:
           element: "hidden"
           value: "post"
       - name: "title"
-          element: "text"
-          label: "Post Title"
+          field:
+            element: "text"
+            label: "Post Title"
       - name: "author"
         field:
           element: "select"
