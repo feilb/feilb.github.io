@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Day Like Any Other
-date: {}
+date: 2013-07-23
 categories: jekyll update
 author: brandon
 published: true
