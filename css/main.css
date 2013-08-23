@@ -85,7 +85,7 @@ a:active {
 }
 
 .navigation-wrapper {
-    font-family: "chaparral-pro-subhead", serif;
+    font-family: "chaparral-pro", serif;
     font-weight: 300;
     font-size: 1.4em;
     line-height: 1.8em;
@@ -115,7 +115,7 @@ a:active {
 
 .post {
     /*font-family: "jaf-facitweb",sans-serif;*/
-    font-family: "chaparral-pro-subhead",serif;
+    font-family: "chaparral-pro",serif;
     font-style: normal;
     font-weight: 300;
     font-size: 1.4em;
