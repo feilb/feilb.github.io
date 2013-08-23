@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Another Day
-date: 2013-08-23
+date: "Thu Aug 23 2013 19:00:00 GMT-0600 (CDT)"
 author: brandon
 published: true
 ---
