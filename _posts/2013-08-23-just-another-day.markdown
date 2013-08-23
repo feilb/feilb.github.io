@@ -3,7 +3,7 @@ layout: post
 title: Just Another Day
 date: {}
 author: brandon
-published: true
+published: false
 ---
 
 some contentasdf
