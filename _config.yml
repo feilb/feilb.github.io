@@ -21,7 +21,6 @@ links:
 exclude: [config.ru]
 
 prose:
-  rooturl: '_posts'
   siteurl: 'http://feilb.github.io'
   media: 'media'
   metadata:
