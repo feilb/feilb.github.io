@@ -32,7 +32,7 @@ prose:
           value: "post"
       - name: "author"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Select Author"
           placeholder: "Choose Author"
           options:
