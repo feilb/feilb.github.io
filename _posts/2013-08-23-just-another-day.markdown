@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Just Another Day"
-date:   2013-08-23 12:46:00
+title: Just Another Day
+date: {}
 author: brandon
+published: true
 ---
 
-some content
+some contentasdf
