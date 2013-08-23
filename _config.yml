@@ -1,0 +1,21 @@
+name: B. Feil dot com
+url: http://bfeil.com
+pygments: true
+permalink: :title/
+logo: bf-logo.png
+
+authors:
+  brandon:
+    name: Brandon Feil
+    gravatar: c5edd69381bbe260f0bf35477ee6bb64
+    web: http://bfeil.com
+    twitter: brandon_feil
+    github: feilb
+
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about 
+
+exclude: [config.ru]

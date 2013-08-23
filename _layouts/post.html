@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% assign author = site.authors[page.author] %}
+
+{% include navigation.html %}
+
+<article class="post">
+	<header>
+		<h1 class="post-title">{{ page.title }}</h1>
+	</header>
+
+	<footer class="post-meta">
+		<span class="author">By {{ author.name }}</span>
+		<span class="post-date date">
+		<i class="icon-calendar icon"></i>
+			<time pubdate="pubdate">{{ page.date | date_to_string }}</time>
+		</span>
+		<!--<span class="post-comments">(NUM COMMENTS HERE)</span>-->
+		<span class="post-permalink">
+			<i class="icon-link icon"></i>
+			<a href="{{ site.url }}{{ page.url}}">Permalink</a>
+		</span>
+		{% for category in page.categories%}
+		<span class="post-tags">
+			<i class="icon-tag icon"></i>
+			{{ category }}
+		</span>
+		{% endfor %}
+	</footer>
+
+	<section class="post-content">
+	{{ content }}
+	</section>
+</article>
