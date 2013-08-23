@@ -37,8 +37,4 @@ prose:
           options:
             - name: "Brandon"
               value: "brandon"
-      - name: "date"
-        field:
-          element: "text"
-          label: "Post Date"
-          placeholder: "YYYY-MM-DD"
+              
