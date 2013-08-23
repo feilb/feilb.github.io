@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "A Day Like Any Other"
-date:   2013-07-23 11:30:42
+title: A Day Like Any Other
+date: {}
 categories: jekyll update
 author: brandon
+published: true
 ---
 
 The same year that Martin Luther King, Jr. marched on Washington and Beatlemania was born, the United States launched half a billion whisker-thin copper wires into orbit in an attempt to install a ring around the Earth. It was called Project West Ford, and it’s a perfect, if odd, example of the Cold War paranoia and military mentality at work in America’s early space program.
