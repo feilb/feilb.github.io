@@ -6,5 +6,4 @@ author: brandon
 published: true
 ---
 
-some contentasdf
-D
+I wish i could get this friggin site to publish.
