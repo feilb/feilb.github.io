@@ -16,3 +16,8 @@ Apart from the ungodly hour of waking, _the_ August 23rd (the only such date tha
 
 This day-- _the_ August 23rd-- was somewhat different than most of those days.
 
+Somewhere between opening the kitchen door after lunch break (which preceded the lunch meal) and the process of setting the diningroom coffee pots brewing I was intercepted by a familiar face. The director of the nursing home was a common sight and was usually accompanied by a brief but polite greeting as she buzzed about doing whatever it is that nursing home directors do. In this case, our interaction was somewhat more specific than a casual hello. "Brandon, why don't you come up front with me. There's a police officer outside that wants to talk to you." Now, I was a pretty straight-laced kid in high school who had little objective reason for concern in front of a police officer, but such an event and such a request are never met with calm nerves. "Uh.. o-ok.." My mind and heart were sent racing with anxiety; I probably had a hundred thoughts before I hit the front door.
+
+Just outside, the police officer and my brother Jonathan were waiting. My brother was crying. "What's going on? What did you do?" I think even the most well-intentioned older brothers take a somewhat acusatory tone when their younger sibling shows up escorted by the police. Nevermind the fact that it was maybe 11am on a Saturday morning in a little speck of a town. How much trouble can one get into by that hour?
+
+
