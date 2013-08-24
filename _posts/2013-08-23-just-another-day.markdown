@@ -6,4 +6,4 @@ author: brandon
 published: true
 ---
 
-Yesterday was August 23rd, 2013. It was an inauspicious day, marked, perhaps, by the threat of an oncoming school year and not much else.
+Yesterday was August 23rd, 2013. It was an inauspicious day, marked, perhaps, by the threat of an oncoming school year and not much else. To me it wasn't a holiday, nor a my birthday
