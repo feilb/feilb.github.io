@@ -37,4 +37,11 @@ prose:
           options:
             - name: "Brandon"
               value: "brandon"
-              
+    "":
+      -name: "layout"
+        field:
+          element: "select"
+          label: "Page Layout"
+          options:
+            - name: "Blog Post"
+              value: "post"
