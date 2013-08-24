@@ -34,4 +34,12 @@ I've often thought back on that moment, trying to put myself into that brief mom
 
 _"I-I uh.. I don't know how to tell you this, but--"_
 
-Jonathan spoke in the vaccilatory 
+Jonathan spoke in that tone and intonation of voice one gets when fighting back tears. He wasn't winning the fight.
+
+_"Mom died last night."_
+
+When
+
+
+
+
