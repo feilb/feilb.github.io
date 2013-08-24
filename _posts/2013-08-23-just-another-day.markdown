@@ -34,6 +34,6 @@ I've often thought back on that moment, trying to put myself into that brief mom
 
 _"I-I uh.. I don't know how to tell you this, but--"_
 
-Jonathan spoke in the tone and intonation of voice one gets when fighting back tears. He wasn't winning the fight. I wouldn't either.
+He had the tone and intonation of voice one gets when fighting back tears. He wasn't winning the fight. I wouldn't either.
 
 My mom was 42. Not old, even by a teenager's standard.
