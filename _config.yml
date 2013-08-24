@@ -43,5 +43,8 @@ prose:
           element: "select"
           label: "Page Layout"
           options:
+            - name: "<NONE>"
+            - value: ""
             - name: "Blog Post"
               value: "post"
+              
