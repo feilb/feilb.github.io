@@ -20,7 +20,4 @@ links:
 
 exclude: [config.ru]
 
-prose:
-  siteurl: 'http://feilb.github.io'
-  media: 'media'
-  
+
