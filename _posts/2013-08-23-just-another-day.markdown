@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just Another Day
-date: "Thu Aug 22 2013 19:00:00 GMT-0600 (CDT)"
+date: "Thu Aug 24 2013 19:00:00 GMT-0600 (CDT)"
 author: brandon
 published: true
 ---
@@ -37,8 +37,3 @@ _"I-I uh.. I don't know how to tell you this, but--"_
 Jonathan spoke in the tone and intonation of voice one gets when fighting back tears. He wasn't winning the fight. I wouldn't either.
 
 My mom was 42. Not old, even by a teenager's standard.
-
-
-
-
-
