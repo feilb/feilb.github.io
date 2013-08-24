@@ -38,3 +38,7 @@ prose:
             - name: "Brandon"
               value: "brandon"
     "":
+      - name: "holder"
+        field:
+          element: "hidden"
+          value: null
