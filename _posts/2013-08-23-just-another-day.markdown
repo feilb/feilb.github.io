@@ -6,7 +6,7 @@ author: brandon
 published: true
 ---
 
-Yesterday was August 23rd, 2013. It was an inauspicious day, marked, perhaps for some, by the threat of an oncoming school year and not much else. To me it wasn't a holiday, nor my birthday. Heck, I even had to work. By all measures, the 23rd day of August was a day like any other day.
+Yesterday was August 23rd, 2013. It was an inauspicious day, marked, perhaps for some, by the threat of an oncoming school year and not much else. To me it wasn't a holiday, nor my birthday. Heck, I even had to work. By all measures, the 23rd day of August was just another day.
  
 Yet.
  
