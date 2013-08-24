@@ -38,7 +38,7 @@ prose:
             - name: "Brandon"
               value: "brandon"
     "":
-      -name: "layout"
+      - name: "layout"
         field:
           element: "select"
           label: "Page Layout"
