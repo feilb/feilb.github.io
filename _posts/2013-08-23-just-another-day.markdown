@@ -6,4 +6,4 @@ author: brandon
 published: true
 ---
 
-I wish i could get this friggin site to publish.
+Yesterday was August 23rd, 2013. It was an inauspicious day, marked, perhaps, by the threat of an oncoming school year and not much else.
