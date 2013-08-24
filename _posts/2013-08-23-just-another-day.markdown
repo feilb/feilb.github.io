@@ -28,7 +28,7 @@ My mind and heart were sent racing with anxiety; I probably had a hundred though
 
 _"What's going on? What did you do!?"_ 
 
-I think even the most well-intentioned older brothers take a somewhat acusatory tone when their younger sibling shows up escorted by the police, mevermind the fact that it was maybe 11am on a Saturday morning. How much trouble can one get into by that hour?
+I think even the most well-intentioned older brothers take a somewhat acusatory tone when their younger sibling shows up escorted by the police, nevermind the fact that it was maybe 11am on a Saturday morning. How much trouble can one get into by that hour?
 
 I've often thought back on that moment just before my brother spoke. Every possible explanation for that particularly odd meeting swirled through my head. 
 
