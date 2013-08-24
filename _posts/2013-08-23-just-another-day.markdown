@@ -30,7 +30,7 @@ _"What's going on? What did you do!?"_
 
 I think even the most well-intentioned older brothers take a somewhat acusatory tone when their younger sibling shows up escorted by the police, mevermind the fact that it was maybe 11am on a Saturday morning. How much trouble can one get into by that hour?
 
-I've often thought back on that moment, trying to put myself into that brief moment of time before my brother spoke when every possible explanation for that particularly odd meeting swirled through my head. 
+I've often thought back on that moment just before my brother spoke. Every possible explanation for that particularly odd meeting swirled through my head. 
 
 _"I-I uh.. I don't know how to tell you this, but--"_
 
