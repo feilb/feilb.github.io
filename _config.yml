@@ -23,25 +23,4 @@ exclude: [config.ru]
 prose:
   siteurl: 'http://feilb.github.io'
   media: 'media'
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "author"
-        field:
-          element: "select"
-          label: "Select Author"
-          placeholder: "Choose Author"
-          options:
-            - name: "Brandon"
-              value: "brandon"
-    "":
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Page Layout"
-          options:
-            - name: "Blog Post"
-              value: "post"
+  
