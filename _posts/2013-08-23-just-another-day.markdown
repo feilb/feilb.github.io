@@ -18,7 +18,7 @@ This day-- _the_ August 23rd-- was somewhat different than most of those days.
 
 Somewhere between the end of lunch break and the start of brewing lunch coffee I was intercepted by a familiar face. The director of the nursing home was a common sight, usually accompanied by a brief, polite greeting as she buzzed about doing whatever it is that nursing home directors do. This time our interaction was more specific than a casual hello. 
 
-_"Brandon, why don't you come up front with me. There's a police officer outside that wants to talk to you."_ 
+_"Brandon, why don't you come up front with me. There's a police officer outside who wants to talk to you."_ 
 
 Now, I was a pretty straight-laced kid in high school who had little objective reason for concern in front of a police officer, but such an event and such a request are never met with calm nerves. 
 
