@@ -37,3 +37,5 @@ _"I-I uh.. I don't know how to tell you this, but--"_
 He had the tone and intonation of voice one gets when fighting back tears. A fight he wasn't winning. I wouldn't either.
 
 My mom was 42. Not old, even by a teenager's standard.
+
+By the time the officer dropped us off at home (concluding my first and only ride in the back seat of a squad car) family had already started pouring in.
