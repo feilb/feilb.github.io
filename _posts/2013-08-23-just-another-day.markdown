@@ -14,5 +14,5 @@ Back up 10 years and a day and, while my life circumstances were much different,
  
 Apart from the ungodly hour of waking, _the_ August 23rd (the only such date that merits an article) began without event. Early mornings in the nursing home kitchen start out slow and quiet. Fellow co-workers silently trudge around, cutting grapefruit, setting out water glasses, and burning themselves on the toaster, pulling themselves willfully out of the grip of the sleep they are missing out on. As the first bowls of oatmeal go out to early-rising residents, conversation starts to perk up. With increases in the number of diners and altitude of the sun, so does the pace and energy of the day increase, building up a sort of steam that, on any other day, would hurtle one clear through the lunch meal and out into the rest of your day. There was a certain exhileration in having completed a full days work before many of your peers had had much more than their morning (perhaps afternoon) bowl of cereal.
 
-This day--_the_ August 23rd-- was somewhat different than most of those days.
+This day-- _the_ August 23rd-- was somewhat different than most of those days.
 
